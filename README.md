@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">Computer Engineering student interested in the intersection between hardware and software</h3>
+<h1 align="center">👋 Hi, I'm Nick</h1>
+<h4 align="left">Computer Engineering student interested in the intersection between hardware and software</h3>
 
 - 📫 How to reach me **nickhsu2025@u.northwestern.edu**
 
