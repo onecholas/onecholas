@@ -17,4 +17,7 @@
 <h1 align="left">Stats</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onecholas&show_icons=true&locale=en" alt="onecholas" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onecholas&" alt="onecholas" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onecholas" alt="onecholas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onecholas&hide_progress=true&langs_count=8" alt="onecholas" /></p>
+
+
+
