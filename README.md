@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: **nickhsu2025@u.northwestern.edu**
 - 🌱 I’m currently learning: **Networking, ASIC/FPGA Design, Computer Architecture, Generative AI**
-- 📄 Know about my experiences: **[onecholas.github.io](onecholas.github.io)**
+- 📄 Know about my experiences: **[onecholas.github.io](https://onecholas.github.io)**
 - ⚡ Fun fact: **I enjoy skiing, playing basketball, and skateboarding!**
 - 🛠️ I'm currently working on: **SkiMonitor**
 
