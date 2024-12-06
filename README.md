@@ -2,7 +2,7 @@
 <h4 align="left">I'm a Computer Engineering student interested in the intersection between hardware and software</h3>
 
 - 📫 How to reach me: **nickhsu2025@u.northwestern.edu**
-- 🌱 I’m currently learning: **Networking, ASIC/FPGA Design, Computer Architecture, Generative AI**
+- 🌱 I’m most passionate about: **ASIC/FPGA Design, Computer Architecture**
 - 📄 Know about my experiences: **[onecholas.github.io](https://onecholas.github.io)**
 - ⚡ Fun fact: **I enjoy skiing, playing basketball, and skateboarding!**
 - 🛠️ I'm currently working on: **SkiMonitor**
